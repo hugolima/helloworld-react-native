@@ -2,6 +2,7 @@
   "expo": {
     "name": "helloworld-react-native",
     "slug": "helloworld-react-native",
+    "owner": "hugolima",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
